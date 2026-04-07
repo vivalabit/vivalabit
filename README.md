@@ -1,4 +1,4 @@
-# Dezhavyu
+# vivalabit
 
 Backend-focused software engineer.
 
